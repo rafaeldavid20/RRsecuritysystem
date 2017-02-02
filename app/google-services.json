@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "457529113892",
+    "firebase_url": "https://rrsecuritysystem-16709.firebaseio.com",
+    "project_id": "rrsecuritysystem-16709",
+    "storage_bucket": "rrsecuritysystem-16709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457529113892:android:b5c4207069e513d5",
+        "android_client_info": {
+          "package_name": "com.example.rafae.rrsecuritysystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457529113892-8pl6en2ehgrtlhhdlg3udiughe2m1q9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TXta0M8V54jcE_8ggFewDWDI4qJ12mk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
